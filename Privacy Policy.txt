@@ -1,0 +1,26 @@
+Privacy Policy
+Data Duster is committed to protecting your privacy. This Privacy Policy outlines how we handle your information and data when you use our Chrome extension.
+
+Information Collection and Use:
+Data Duster does not collect, store, or share any personal information or browsing data. The extension operates locally on your device to clear browsing data for specific domains upon your request. No data is transmitted to external servers or third parties.
+
+Permissions:
+Data Duster requires certain permissions to function correctly:
+
+storage: To clear local storage data for the active domain.
+cookies: To manage and clear cookies associated with the active domain.
+browsingData: To remove various types of browsing data (cache, cookies, local storage, indexedDB, service workers, webSQL, file systems, and plugin data) for the active domain.
+activeTab: To identify the active tab and its domain.
+tabs: To query and interact with your browser tabs and get the URL of the active tab.
+These permissions are solely used to provide the core functionality of the extension and are not used for any other purposes.
+
+Third-Party Services:
+Data Duster does not use or integrate with any third-party services that collect or process your data.
+
+Changes to This Privacy Policy:
+We may update our Privacy Policy from time to time. Any changes will be posted on this page, and we encourage you to review this Privacy Policy periodically for any updates.
+
+Contact Us:
+If you have any questions or concerns about this Privacy Policy or the Data Duster extension, please contact us at barb.alin.gabriel@gmail.com.
+
+By using the Data Duster extension, you agree to the terms of this Privacy Policy.
